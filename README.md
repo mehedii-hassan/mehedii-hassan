@@ -1,18 +1,29 @@
 <img src="https://github.com/mehedii-hassan/mehedii-hassan/blob/main/profile_banner.jpg"> 
 
-### Hi there 👋, I'm Mehedi Hassan
-#### Software Engineer(Android)
-
-Skills: ANDROID / JAVA / KOTLIN / JS / HTML / CSS
+# Hi 👋, I'm Mehedi Hassan
+### Software Engineer(Android)
 
 - 🔭 I’m currently working on Android 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Android with Kotlin 
 
+## 👨‍💻 Skills and Experience
+* 📲 Android
+* ✴ Java, Kotlin, JavaScript, Python
+* 💻 Html, Css, Bootstrap 5
+* ⭐ Room, Firebase, MySQL, Oracle, MongoDB
+* ✳ MVVM, MVP
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mehedii-hassan" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mehedii-hassan" height="150" alt="languages graph"  />
 </div>
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedii-hassan&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedii-hassan)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedii-hassan)  
+
+![Profile views](https://gpvc.arturio.dev/mehedii-hassan)  
