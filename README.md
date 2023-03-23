@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mehedii-hassan" height="150" alt="languages graph"  />
 </div>
 
-
+![Profile views](https://gpvc.arturio.dev/mehedii-hassan) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedii-hassan&show_icons=true)  
 
@@ -26,4 +26,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedii-hassan)  
 
-![Profile views](https://gpvc.arturio.dev/mehedii-hassan)  
+ 
