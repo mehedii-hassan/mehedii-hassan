@@ -3,8 +3,7 @@
 # Hi 👋, I'm Mehedi Hassan
 ### Software Engineer(Android)
 
-- 🔭 I’m currently working on Android 
-- 🌱 I’m currently learning Android with Kotlin 
+- 🔭 I’m currently working on Android  
 
 ## 👨‍💻 Skills and Experience
 * 📲 Android
