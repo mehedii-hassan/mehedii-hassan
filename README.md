@@ -1,7 +1,7 @@
 <img src="https://github.com/mehedii-hassan/mehedii-hassan/blob/main/profile_banner.jpg"> 
 
 # Hi 👋, I'm Mehedi Hassan
-### Software Engineer(Android)
+### Software Engineer
 
 - 🔭 I’m currently working on Android  
 
