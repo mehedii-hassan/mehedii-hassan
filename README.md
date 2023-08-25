@@ -1,12 +1,19 @@
 <img src="https://github.com/mehedii-hassan/mehedii-hassan/blob/main/profile_banner.jpg"> 
 
 # Hi 👋, I'm Mehedi Hassan
-### Software Engineer
+### Software Engineer (Native Android)
 
-- 🔭 I’m currently working on Android  
+## 👨‍💻 About me
 
-## 👨‍💻 Skills and Experience
-* 📲 Android
+This is  Mehedi Hassan, a passionate software engineer(Native Android)  who loves to solve problems with efficient solutions. My favorite programming language is Java but recently I have been working on Kotlin. I'm determined to become an excellent software engineer and work for a top global tech company.
+
+- 🔭 I’m currently working on Android
+- 🚀Tell me about Native Android
+- 
+  
+
+## 🌙 Skills and Experience
+* 📲 Native Android
 * ✴ Java, Kotlin, JavaScript, Python
 * 💻 Html, Css, Bootstrap 5
 * ⭐ Room, Firebase, MySQL, Oracle, MongoDB
