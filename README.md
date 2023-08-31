@@ -5,19 +5,25 @@
 
 ## 👨‍💻 About me
 
-This is  Mehedi Hassan, a passionate software engineer(Native Android)  who loves to solve problems with efficient solutions. My favorite programming language is Java but recently I have been working on Kotlin. I'm determined to become an excellent software engineer and work for a top global tech company.
+This is  Mehedi Hassan, a passionate software engineer(Native Android)  who loves to solve problems with efficient solutions. My favorite programming language is Java but currently, I have been working on Kotlin. I'm determined to become an excellent software engineer and work for a top global tech company.
 
 - 🔭 I’m currently working on Android
 - 🚀Tell me about Native Android
 - 
   
 
-## 🌙 Skills and Experience
+## 🌙 Skills
 * 📲 Native Android
-* ✴ Java, Kotlin, JavaScript, Python
+* ⭐ Java, Kotlin, Room, Firebase, Push-notification, Realtime
+  database, Retrofit, Map, MVVM, MVP, Picasso, Glide, GitHub, GitLab,
+  Figma, Postman, RESTful APIs.
+* ⭐ Navigation Component, Application Components, Location Services,
+  Guideline, Responsive UI design, Asynchronous programming and
+  multithreading, JSON parsing, Dependency injection with Hilt,
+  Coroutines etc.
 * 💻 Html, Css, Bootstrap 5
-* ⭐ Room, Firebase, MySQL, Oracle, MongoDB
-* ✳ MVVM, MVP
+
+
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedii-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedii-hassan" /> </p>
 
