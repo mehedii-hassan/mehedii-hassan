@@ -13,7 +13,7 @@ This is  Mehedi Hassan, a passionate software engineer(Native Android)  who love
   
 
 ## 🌙 Skills
-* 📲 Native Android
+* 🌐 Native Android
 * ⭐ Java, Kotlin, Room, Firebase, Push-notification, Realtime
   database, Retrofit, Map, MVVM, MVP, Picasso, Glide, GitHub, GitLab,
   Figma, Postman, RESTful APIs.
@@ -21,7 +21,7 @@ This is  Mehedi Hassan, a passionate software engineer(Native Android)  who love
      Guideline, Responsive UI design, Asynchronous programming and
      multithreading, JSON parsing, Dependency injection with Hilt,
   Coroutines etc.
-* ⭐ Html, Css, Bootstrap 5
+* 🌐 Html, Css, Bootstrap 5
 
 
 
