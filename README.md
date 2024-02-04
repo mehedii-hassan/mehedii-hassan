@@ -40,4 +40,11 @@ This is  Mehedi Hassan, a passionate software engineer 🌐 Native Android, who 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedii-hassan)  
 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedii-hassan&layout=pie)](https://github.com/mehedii-hassan/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedii-hassan&layout=compact)
+
  
