@@ -15,16 +15,10 @@ This is  Mehedi Hassan, a passionate software engineer 🌐 Native Android, who 
 
 ## 🌙 Skills
 * 🌐 Native Android
-* ⭐ Java, Kotlin, Room, Firebase, Push-notification, Realtime
-  database, Retrofit, Map, MVVM, MVP, Picasso, Glide, GitHub, GitLab,
-  Figma, Postman, RESTful APIs.
-* ⭐ Navigation Component, Application Components, Location Services,
-     Guideline, Responsive UI design, Asynchronous programming and
-     multithreading, JSON parsing, Dependency injection with Hilt,
-  Coroutines etc.
-* 🌐 Html, Css, Bootstrap 5
-
-
+* ⭐ Kotlin, Java, Room, Retrofit, MVVM, MVP, DI with Hilt, Responsive UI design
+* 🌐 GitHub, GitLab
+* ⭐ Navigation Component, Application Components, Location Services, Coroutines etc.
+* 🌐 Html, CSS, Bootstrap 5
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedii-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedii-hassan" /> </p>
 
