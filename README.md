@@ -29,6 +29,7 @@ This is  Mehedi Hassan, a passionate software engineer 🌐 Native Android, who 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedii-hassan&show_icons=true)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mehedi_Hassan_?theme=dark)](https://leetcode.com/Mehedi_Hassan_)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedii-hassan)  
 
