@@ -24,22 +24,18 @@ This is  Mehedi Hassan, a passionate software engineer 🌐 Native Android, who 
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mehedii-hassan" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=mehedii-hassan" height="150" alt="languages graph"  />
 </div>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mehedi_Hassan_?theme=dark)](https://leetcode.com/Mehedi_Hassan_)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedii-hassan&show_icons=true)  
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mehedi_Hassan_?theme=dark)](https://leetcode.com/Mehedi_Hassan_)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedii-hassan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedii-hassan)  
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedii-hassan&layout=pie)](https://github.com/mehedii-hassan/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedii-hassan&layout=compact)
 
  
