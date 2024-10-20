@@ -5,7 +5,9 @@
 
 ## 👨‍💻 About me
 
-This is  Mehedi Hassan, a passionate software developer (Native Android), proficient in both Kotlin & Java. My favorite programming language is Java. Let's connect and explore how I can contribute to your cutting-edge Android projects."🌴
+👨‍💻This is  Mehedi Hassan, An experienced Native Android Developer with about 3 years of experience developing and maintaining mobile applications, proficient in both Kotlin and Java but Java is my favorite programming language. Skilled in building applications from scratch, focusing on user experience and performance.
+
+Currently, I am exploring better opportunities to enhance my expertise, develop new skills, and achieve organizational and personal goals. I would be pleased to discuss how I can contribute to your cutting-edge Android projects."🌐
 
 
 - 🔭 I’m currently working on Android
