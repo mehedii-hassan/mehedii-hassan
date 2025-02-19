@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me
 
-👨‍💻This is  Mehedi Hassan, An experienced Native Android Developer with about 3 years of experience developing and maintaining mobile applications, proficient in both Kotlin and Java but Java is my favorite programming language. Skilled in building applications from scratch, focusing on user experience and performance 🌐.
+👨‍💻This is  Mehedi Hassan, An experienced Native Android Developer with over 3 years of experience developing and maintaining mobile applications, proficient in both Kotlin and Java but Java is my favorite programming language. Skilled in building applications from scratch, focusing on user experience and performance 🌐.
 
 
 - 🔭 I’m currently working on Android
