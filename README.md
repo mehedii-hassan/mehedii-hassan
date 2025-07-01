@@ -13,12 +13,16 @@
 
   
 
-## 🌙 Skills
-* 🌐 Native Android
-* ⭐ Kotlin, Java, Room, Retrofit, MVVM, MVP, DI with Hilt, Responsive UI design
-* 🌐 GitHub, GitLab
-* ⭐ Navigation Component, Application Components, Location Services, Coroutines etc.
-* 🌐 Html, CSS, Bootstrap 5
+## 🛠️ Skills
+🧩 **Languages & Frameworks**: Kotlin, Java, Android SDK, Jetpack Compose, Room  
+🧩 **Components & UI Design**: Navigation Component, App Components (Services, Broadcast Receivers, Content Providers), Responsive UI Design  
+🧩 **Networking & APIs**: Retrofit, OkHttp, WebSockets  
+🧩 **Google Services**: Firebase, ML Kit, FCM, Location Services, Google Maps  
+🧩 **Architecture & Design Patterns**: MVVM, MVP, Singleton, Builder, Observer, Hilt (DI), Coroutines (async programming)  
+🧩 **Tools & DevOps**: Git, GitHub, GitLab, CI/CD, Android Studio, Postman  
+🧩 **Performance & Debugging**: LeakCanary, Android Profiler  
+🧩 **Others**: Agora SDK, Banuba SDK, Facebook SDK, WorkManager, WebView, Media3 (ExoPlayer), Animations, YouTube IFrame API, Payment Integration
+
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedii-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedii-hassan" /> </p>
 
