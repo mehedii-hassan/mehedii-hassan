@@ -14,11 +14,11 @@
   
 
 ## 🛠️ Skills
-🧩 **Languages & Frameworks**: Kotlin, Java, Android, Jetpack Compose
-🧩 **Components & UI Design**: Navigation Component, App Components, Responsive UI Design   
-🧩 **Asynchronous & Reactive Programming**: Kotlin Coroutines, Flows
-🧩 **Google Services**: Firebase, ML Kit, FCM, Location Services, Google Maps  
-🧩 **Architecture & Design Patterns**: MVVM, MVP, Singleton, Builder, Observer, Hilt (DI), Coroutines (async programming)  
+🧩 **Languages & Frameworks**: Kotlin, Java, Android, Jetpack Compose                                                                                
+🧩 **Components & UI Design**: Navigation Component, App Components, Responsive UI Design                                                        
+🧩 **Asynchronous & Reactive Programming**: Kotlin Coroutines, Flows                                                                                    
+🧩 **Google Services**: Firebase, ML Kit, FCM, Location Services, Google Maps                                                                            
+🧩 **Architecture & Design Patterns**: MVVM, MVP, Singleton, Builder, Observer, Hilt (DI), Coroutines (async programming)                                   
 
 
 
