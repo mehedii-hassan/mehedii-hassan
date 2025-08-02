@@ -9,19 +9,18 @@
 
 
 - 🔭 I’m currently working on Android
-- 🚀Tell me about Native Android
+- 🚀 Tell me about Native Android
 
   
 
 ## 🛠️ Skills
-🧩 **Languages & Frameworks**: Kotlin, Java, Android SDK, Jetpack Compose, Room  
-🧩 **Components & UI Design**: Navigation Component, App Components (Services, Broadcast Receivers, Content Providers), Responsive UI Design  
-🧩 **Networking & APIs**: Retrofit, OkHttp, WebSockets  
+🧩 **Languages & Frameworks**: Kotlin, Java, Android, Jetpack Compose
+🧩 **Components & UI Design**: Navigation Component, App Components, Responsive UI Design   
+🧩 **Asynchronous & Reactive Programming**: Kotlin Coroutines, Flows
 🧩 **Google Services**: Firebase, ML Kit, FCM, Location Services, Google Maps  
 🧩 **Architecture & Design Patterns**: MVVM, MVP, Singleton, Builder, Observer, Hilt (DI), Coroutines (async programming)  
-🧩 **Tools & DevOps**: Git, GitHub, GitLab, CI/CD, Android Studio, Postman  
-🧩 **Performance & Debugging**: LeakCanary, Android Profiler  
-🧩 **Others**: Agora SDK, Banuba SDK, Facebook SDK, WorkManager, WebView, Media3 (ExoPlayer), Animations, YouTube IFrame API, Payment Integration
+
+
 
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedii-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedii-hassan" /> </p>
